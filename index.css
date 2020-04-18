@@ -18,6 +18,5 @@ body {
 }
 
 .bigItem {
-  grid-column: 2 / 4;
-  grid-row: 2 / 4;
+  grid-area: 2 / 2 / 4 / 4;
 }
